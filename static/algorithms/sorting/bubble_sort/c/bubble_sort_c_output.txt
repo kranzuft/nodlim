@@ -1,0 +1,4 @@
+$ gcc -o basic_bubble_sort basic_bubble_sort.c
+$ ./basic_bubble_sort
+Unsorted: 	2 6 3 9 8 7 1 5 4 10
+Sorted: 	1 2 3 4 5 6 7 8 9 10
